@@ -1,1 +1,2 @@
-# Studi_Kasus_3_GresiusKrisnaSamuel
+Nama: Gresius Krisna Samuel
+NIM: 058
